@@ -1,3 +1,5 @@
+// We can also perform this by using temp array were we can store the reverse string and compare both the arrays
+
 public class StringPalindrome {
     boolean palindrome(String s)
     {
