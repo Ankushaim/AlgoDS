@@ -9,17 +9,15 @@ public class ValidateString {
     }
 
     public static void main(String[] args) {
-    String s = "Ankush321";
-    ValidateString ob1 = new ValidateString();
-    if(ob1.validate(s))
-    {
-        System.out.printf("Its valid string");
-    }
-    else
-    {
-        System.out.printf("Not valid String");
-    }
-
-
+        String s = "Ankush321";
+        ValidateString ob1 = new ValidateString();
+        if(ob1.validate(s))
+        {
+            System.out.printf("Its valid string");
+        }
+        else
+        {
+            System.out.printf("Not valid String");
+        }
     }
 }
