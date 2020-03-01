@@ -1,3 +1,8 @@
+/*
+ * This method can find as well as count duplicates however the current implementation is only for the lower case..
+ *  */
+
+
 import java.util.Arrays;
 
 public class FindingDuplicatesString {
